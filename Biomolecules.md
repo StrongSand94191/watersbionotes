@@ -1,43 +1,41 @@
+# Biomolecules
+## Prefixes and Suffixes
+
+- **POLY-** means MANY or LOTS
+    
+- **MONO-** means one, which is the basic subunit of a polymer
+    
+- The suffix "**-OSE**", refers to mono sugars like gluc**ose**, fruct**ose**, and sucr**ose
+    
+- The suffix "**-SACCHARIDE**" refers to sugar; i.e., a poly**saccharide** is a large molecule composed of many sugar subunits.
+    
+- The suffix "**-PEPTIDE**" refers to a molecule composed of 2 or more AMINO ACIDS; a di**peptide** is composed of 2 amino acids
+
 ---
-color: "#eb3b5a"
----
-### Prefixes and Suffixes
+## Biological Molecules
 
--   **POLY-** means MANY or LOTS
+- All living organisms are made from simple elements found in the earth.
     
--   **MONO-** means one, which is the basic subunit of a polymer
+- These elements join together to make molecules
     
--   The suffix "**-OSE**", refers to mono sugars like gluc**ose**, fruct**ose**, and sucr**ose
-    
--   The suffix "**-SACCHARIDE**" refers to sugar; i.e., a poly**saccharide** is a large molecule composed of many sugar subunits.
-    
--   The suffix "**-PEPTIDE**" refers to a molecule composed of 2 or more AMINO ACIDS; a di**peptide** is composed of 2 amino acids
-
-
-### Biological Molecules
-
--   All living organisms are made from simple elements found in the earth.
-    
--   These elements join together to make molecules
-    
--   The four most common elements that make living organisms are:
+- The four most common elements that make living organisms are:
 1. Carbon
 2. Hydrogen
 3. Oxygen
 4. Nitrogen
     
--   All biological molecules are big molecules called **POLYMERS**
+- All biological molecules are big molecules called **POLYMERS**
     
--   Polymers are made from small molecules called **MONOMERS**
+- Polymers are made from small molecules called **MONOMERS**
 
+---
+## Four Groups of Biomolecules
 
-### Four Groups of Biomolecules
+### Carbohydrates
 
-
-###### Carbohydrates
 - Also known as: SUGAR!
     
-- Made of Carbon, Hydrogen and Oxygen
+- Made of Carbon, Hydrogen and Oxygen (CHO)
     
 - Monomers are **monosaccharides** (simple sugar)
 - Polymers are **polysaccharides** *(for example: starch!)*
@@ -53,16 +51,17 @@ color: "#eb3b5a"
 
 
 **Examples:**
--   Glucose
--   Cellulose
--   Fructose
--   Sucrose
+- Glucose
+- Cellulose
+- Fructose
+- Sucrose
 
+---
+### Lipids
 
-###### Lipids
 - Also known as: Fats, Cholesterol, Hormones
     
-- Made of Carbon, Hydrogen and Oxygen
+- Made of Carbon, Hydrogen and Oxygen (CHO)
     
 Lipids don’t have polymers and monomers. 
 They are made of **two parts**: 
@@ -88,10 +87,10 @@ They are made of **two parts**:
 - Butter
 - Chips
 
+---
+### Nucleic Acids
 
-###### Nucleic Acids
-
-- Made of: Carbon, Hydrogen, Oxygen, Nitrogen, and Phosphorus
+- Made of: Carbon, Hydrogen, Oxygen, Nitrogen, and Phosphorus (CHONP)
     
 Monomers: Nucleotides (*examples: adenine, glycine, cytocine, guanine*)
 Polymers: Nucleic Acids
@@ -103,9 +102,10 @@ Polymers: Nucleic Acids
 
 **Examples:** DNA and RNA (*we’ll learn more about these later*)
 
+---
+### Proteins
 
-###### Proteins
-- Made of Carbon, Hydrogen, Oxygen and Nitrogen
+- Made of Carbon, Hydrogen, Oxygen and Nitrogen (CHON)
     
 - Monomers: Amino Acids (*There are 20 different amino acids!*)
 - Polymers: Polypeptides (*made from a chain of amino acids*)
