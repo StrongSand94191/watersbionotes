@@ -1,6 +1,8 @@
-# Cells
-## Cell Types
-### Eukaryotic Cells
+---
+color: ""
+---
+# Cell Types
+## Eukaryotic Cells
 **Examples:** Plant and animal cells
 - Large and complex
 - 10 to 100 nanometers in size
@@ -11,8 +13,7 @@
 - Has **membrane-bound organelles**
 - Mostly reproduce sexually
 - Cell division by **mitosis**
-
-### Prokaryotic Cells
+## Prokaryotic Cells
 **Examples:** Bacteria and archaea cells
 - Small and simple
 - 0.1 to 5 nanometers in size
@@ -24,14 +25,14 @@
 - Reproduce both sexually and asexually
 - Cell division by **binary fission**
 
-### Both Cells
+## Both Cells
 - Have **cytoplasm**
 - Have **ribosomes**
 - Have a **cell membrane**
 - Have **DNA**
 
 ---
-## Cell Transport
+# Cell Transport
 
 **Diffusion:** The process where molecules move from areas of high concentration to areas of low concentration, **eventually making the solution homogeneous**.
 
@@ -44,13 +45,13 @@
 
 **Osmosis:** Diffusion, but with water instead of molecules
 
-### Passive Transport:
+## Passive Transport:
 - Doesn't require ATP
 - When a cell moves materials from ==high concentration to low concentration==
 - Goes with the flow of traffic
 - Includes osmosis and diffusion
 
-### Active Transport:
+## Active Transport:
 - When a cell moves materials from ==low concentration to high concentration==
 - Goes against the flow of traffic
 - Requires ATP
@@ -60,7 +61,7 @@
 2. **Exocytosis:** when a cell releases large amounts of materials
 
 ---
-## Vocab
+# Vocab
 
 - **Robert Hooke:** English scientist who saw cells by looking at cork under a microscope in the 17th century.
 

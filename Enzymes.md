@@ -1,5 +1,7 @@
-# Enzymes
-## Chemical Reactions
+---
+color:
+---
+# Chemical Reactions
 - A process that ==changes one set of chemicals into another set of chemicals==
 - Always involves ==changes in chemical bonds== that join atoms in compounds
     
@@ -8,7 +10,7 @@
 
 ---
 
-## Energy in Reactions
+# Energy in Reactions
 - Energy is released or absorbed ==whenever chemical bonds are made or broken==
 - Energy changes are the single most important factor determining ==how easily chemical reactions will occur==
 

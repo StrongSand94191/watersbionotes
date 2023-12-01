@@ -1,5 +1,7 @@
-# Biomolecules
-## Prefixes and Suffixes
+---
+color: ""
+---
+# Prefixes and Suffixes
 
 - **POLY-** means MANY or LOTS
     
@@ -12,7 +14,7 @@
 - The suffix "**-PEPTIDE**" refers to a molecule composed of 2 or more AMINO ACIDS; a di**peptide** is composed of 2 amino acids
 
 ---
-## Biological Molecules
+# Biological Molecules
 
 - All living organisms are made from simple elements found in the earth.
     
@@ -29,9 +31,9 @@
 - Polymers are made from small molecules called **MONOMERS**
 
 ---
-## Four Groups of Biomolecules
+# Four Groups of Biomolecules
 
-### Carbohydrates
+## Carbohydrates
 
 - Also known as: SUGAR!
     
@@ -57,7 +59,7 @@
 - Sucrose
 
 ---
-### Lipids
+## Lipids
 
 - Also known as: Fats, Cholesterol, Hormones
     
@@ -88,7 +90,7 @@ They are made of **two parts**:
 - Chips
 
 ---
-### Nucleic Acids
+## Nucleic Acids
 
 - Made of: Carbon, Hydrogen, Oxygen, Nitrogen, and Phosphorus (CHONP)
     
@@ -103,7 +105,7 @@ Polymers: Nucleic Acids
 **Examples:** DNA and RNA (*we’ll learn more about these later*)
 
 ---
-### Proteins
+## Proteins
 
 - Made of Carbon, Hydrogen, Oxygen and Nitrogen (CHON)
     
